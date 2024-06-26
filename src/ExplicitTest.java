@@ -16,6 +16,10 @@ b = (byte) z;
         System.out.println("z =" + z + "b = " + b);
         System.out.println("Conversion of double to int.");
 
-z = (int) dou
+z = (int) dou;
+        System.out.println("dou =" + dou + "b =" + z);
+
+b = (byte) dou;
+        System.out.println("dou =" + dou + "b =" + b);
     }
 }
